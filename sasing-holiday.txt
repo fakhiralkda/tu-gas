@@ -87,3 +87,26 @@ A	: Don’t worry I know good and cheap travel to get there
 D	: How about the inn? We have to find a good and strategically located inn
 B	: Of course, also a cheap inn
 D	: Calm down, I will find and book it for us
+C	: When are we going?
+A	: How about tomorrow afternoon?
+B	: Yes, I agree
+D	: Hmm, it seems better to leave early in the morning, so we will arrive quickly
+C	: Can the travel leave tomorrow morning A?
+A	: No pronlem, I will book it for tomorrow morning
+B	: By the way, where will we meet tomorrow morning?
+A	: Let's meet at my house, tomorrow at 7 a.m, don’t be late guys
+D	: Okay, let's just go home now guys so we can prepare the things that will be brought tomorrow
+C	: Okay, come on, i can’t wait for tomorrow
+B	: Let’s go home guys, bye bye
+The next day
+A	: Hi, good morning.   Are you ready for the vacation?
+C	: I’m ready. By the way, why hasn't B come yet, even though it's almost 7 a.m
+D	: Wait I'll try to call him, I'm afraid he's asleep
+B	: Eh sorry-sorry I woke up late
+D	: Huft, luckily we didn't miss the travel. But, all of your stuff have been taken?
+B	: I have, but I forget to bring snacks
+C	: Don’t worry I have bring many snacks for us
+A	: Eh btw, has the inn been booked D?
+D	: Yes, I have. the inn is very good, I’m sure you’ll like it
+A	: Guys, the travel has arrived
+B,C,D	: Let’s go!!
