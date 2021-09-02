@@ -1,0 +1,56 @@
+A	: Hi, how are you guys? Long time no see.
+B	: Hello, i'm fine as always.
+C	: I’m very well.
+D	: Me too. What about you?
+A	: Yeah as you can see, of course I'm very fine.
+C	: Why did you suddenly ask us to meet up?
+B	:Yes, it's very sudden, luckily I'm not busy.
+A	:I'm sorry. Cause I miss you all so much that I invite you to meet up. Thank you for coming.
+D	: I miss you all too. We haven't seen each other for 1 month because of the holidays.
+A 	: Btw, How was your holiday guys? I bet it was fun. Mine was so-so since I didn’t go anywhere during the holiday. 
+C	:That was too bad, A. If I had known you going nowhere during the holiday, I would have asked you to come along with me to Bali.
+A 	: It’s okay, friends. Even though I stayed at home only, my holiday was not that bad.
+B	: Really? 
+A 	:Yeah, I have a cousin from Palembang who visited me on last holiday. We had family time during the holiday. You know, we had barbeque party and played some family games together. 
+D 	: woooww that’s great.
+A	: I know, but it would have been even greater if I could have spent the holiday outside the town. 
+C 	: How about your holidays? What are you doing in the holidays season, B?
+B	: I’m having a great holidays, im playing soccer to fill up my free time.
+C	: What is the name of your soccer team?
+B	: The name is elang soccer team.
+D	: Did you enter any soccer match?
+B	: I had 6 soccer matches during my last holiday.
+A	: How many you win and lose in the soccer match?
+B	: My team got 5 wins and just one draw.
+D	: Wow so impressive, did you get injured during a soccer match?
+B	: Yes, injured during the soccer match I had to leave the field.
+C	: It’s must be hurt. Did your trainer take you to the hospital or clinic ?
+B	: Yes, I was taken to the nearest clinic by my trainer. By the way how was Bali, C? Was it fun? 
+C	: Of course, it was. Me and my sister went surfing in Nusa Lembongan
+A	: Wait, you can surf
+C	: Yes, I can
+A	: I didn’t know you can do that. 
+C	: Well, now you do. 
+D	: Is the waves in Nusa Lembongan very strong, C?
+C	: Of course, that’s the reason why I chose Nusa Lembangon to holiday.
+B	: Did you only go surfing when you visited Bali? 
+C	: Of course not. I also visited some cool places there, such as Mount Batur, Uluwatu Temple, and Ubud Art Market. Speaking of Ubud Art Market. Having visited some cool place, I brought you some souvenirs from there. Here they are. 
+D	: Wow, it’s so cool. Thanks, C
+B	: Thanks, C
+A	: Yes, it’s really pretty. You’re the best, C.
+B	: So, how about you, D?
+D	: My father and I went to Raja Ampat, Papua. You know that?
+A	; Wow, it’s so awesome. How long to get there?
+D	: 4 hours 20 minutes is the flight from Jakarta to Sorong.
+C	: Then, how was your trip from Sorong to Raja Ampat?
+D	: I took another plane from Domine Eduard Osok airport to Marinda airport. I took the ferry from rakyat port to Raja Ampat.
+B	: It is so far, right?
+D	: Of course. It is so far that I took a plane to go there.
+A	: Many people said that is one of an amazing place.
+B	: Yeah, Raja Ampat is a beautiful place in West Papua.  
+C	: So, what did you do in Raja Ampat, D?
+D	: I diving on Friwen island, there has a beach with a beautiful underwater view.
+A	: It was funny. Did you took a picture?
+D	: Wait, here it is.
+B	: OMG.. it is a beautiful sea.
+D	: Of course, I hope we will be there guys.
