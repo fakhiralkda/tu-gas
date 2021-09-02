@@ -34,7 +34,7 @@ C	: Well, now you do.
 D	: Is the waves in Nusa Lembongan very strong, C?
 C	: Of course, that’s the reason why I chose Nusa Lembangon to holiday.
 B	: Did you only go surfing when you visited Bali? 
-C	: Of course not. I also visited some cool places there, such as Mount Batur, Uluwatu Temple, and Ubud Art Market. Speaking of Ubud Art Market. Having visited some cool place, I brought you some souvenirs from there. Here they are. 
+C	: Of course not. I also visited some cool places there, such as Mount Batur, Uluwatu 	Temple, and Ubud Art Market. Speaking of Ubud Art Market. Having visited some 	cool place, I brought you some souvenirs from there. Here they are. 
 D	: Wow, it’s so cool. Thanks, C
 B	: Thanks, C
 A	: Yes, it’s really pretty. You’re the best, C.
@@ -54,3 +54,17 @@ A	: It was funny. Did you took a picture?
 D	: Wait, here it is.
 B	: OMG.. it is a beautiful sea.
 D	: Of course, I hope we will be there guys.
+A	: By the way guys, we only have 2 weeks off.  I thought how about we go on vacation 		together?  I think it will be a beautiful moment before our graduation
+C	: nice idea!  we can have fun together
+B	: I don't seem to agree.  it's true, we can have fun together, but we have to study for 	the final exam later
+D	: Of course we have to study for the final exam, but I think this will be our best 		moment.
+C	: If so, where do you think we will go on vacation, guys?  I’m not sure we can get 	e	nough vacation in two weeks
+A	: how bout a foreign holiday? I know a good tourist spot in Malaysia
+B	: I don’t think so. It takes a lont time to go abroad. Especially when we only have to weeks
+C	: That’s right, how about Raja Ampat?
+D	: Of course not. I have vacationed at Raja Ampat, how can we go vacation there again
+C	: Ah, sorry I forgot about it
+B	: Yeah, I think Raja Ampat is still too far away. Moreover, we are only there for 2 weeks
+A	: I agree with B. we won’t able to explore it in two weeks
+D	: How about Komodo Islands? We can explore there, can’t we?
+C	: Ofcourse, but I don’t think we should do anything strenuous on the holidays. I'm afraid we’ll get sick and can’t go to school
