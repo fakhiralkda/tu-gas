@@ -57,9 +57,9 @@ D	: Of course, I hope we will be there guys.
 A	: By the way guys, we only have 2 weeks off.  I thought how about we go on vacation 		together?  I think it will be a beautiful moment before our graduation
 C	: nice idea!  we can have fun together
 B	: I don't seem to agree.  it's true, we can have fun together, but we have to study for 	the final exam later
-D	: Of course we have to study for the final exam, but I think this will be our best 		moment.
-C	: If so, where do you think we will go on vacation, guys?  I’m not sure we can get 	e	nough vacation in two weeks
-A	: how bout a foreign holiday? I know a good tourist spot in Malaysia
+D	: Ofcourse we have to study for the final exam, but I think this will be our best 		moment.
+C	: If so, where do you think we will go on vacation, guys?  I’m not sure we can get 	enough vacation in two weeks
+A	: how about a foreign holiday? I know a good tourist spot in Malaysia
 B	: I don’t think so. It takes a lont time to go abroad. Especially when we only have to weeks
 C	: That’s right, how about Raja Ampat?
 D	: Of course not. I have vacationed at Raja Ampat, how can we go vacation there again
@@ -67,4 +67,23 @@ C	: Ah, sorry I forgot about it
 B	: Yeah, I think Raja Ampat is still too far away. Moreover, we are only there for 2 weeks
 A	: I agree with B. we won’t able to explore it in two weeks
 D	: How about Komodo Islands? We can explore there, can’t we?
-C	: Ofcourse, but I don’t think we should do anything strenuous on the holidays. I'm afraid we’ll get sick and can’t go to school
+C	: Of course, but I don’t think we should do anything strenuous on the holidays. I'm afraid we’ll get sick and can’t go to school
+D	: How about Toba Lake? It is known as the largest volcanic lake in the world
+A	: No way, we don’t have enough time for an off-island vacation. We should just take a vacation in java so we won’t be in a hurry later
+B	: I think Tangkuban Perahu is the best choice. Tangkuban perahu has an easy hiking trail for beginner like us
+C	: as far as I know about tangkuban perahu, I’m less interested in tangkuban perahu view
+A	: How about Borobudur Temple in Central Java? I really want to take a trip there
+D	: Great idea, we can also learn about the history of the Hindu-Buddhist religion in java there
+B	: Reading Javanese folklore, I was eager to take a holiday there.
+C	: isn’t is boring to take 2 weeks vacation only at the Borobudur temple?
+B	: How about a week in Borobudur and a week elsewhere?
+A	: Agree, how about Tumpak Sewu? It has really amazing panorama
+D	: Where is the location of the Tumpak Sewu waterfall?
+C	: Omg, don’t you know? That’s in Malang, east java
+B	: How could you not know it? Even though you are a native of East Java
+D	: Ooops, sorry guys I really don’t know about it. If you guys think it,s a good place, then we’ll go there after returning from Borobudur Temple
+C	: How about the transportation? We have to save money so we can spend money for shopping
+A	: Don’t worry I know good and cheap travel to get there
+D	: How about the inn? We have to find a good and strategically located inn
+B	: Of course, also a cheap inn
+D	: Calm down, I will find and book it for us
