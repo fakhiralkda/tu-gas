@@ -34,9 +34,9 @@ Rossa	: Well, now you do.
 Ryan	: Is the waves in Nusa Lembongan very strong, Rossa?
 Rossa	: Of course, that’s the reason why I chose Nusa Lembangon to holiday.
 Rizal	: Did you only go surfing when you visited Bali? 
-Rossa	: Of course not. I also visited some cool places there, such as Mount Batur, UluwaTemple, and Ubud Art Market. Having visited some cool place, I brought you some souvenirs from there. Here they are. 
+Rossa	: Of course not. I also visited some cool places there, such as Mount Batur, Uluwatu Temple, and Ubud Art Market. Having visited some cool place, I brought you some souvenirs from there. Here they are. 
 Ryan	: Wow, it’s so cool. Thanks, Rossa.
-Rizal   : its very nice, I’ve never had this before. Thank you rosa
+Rizal   : its very nice, I’ve never had this before. Thank you, Rossa 
 Viela	: Yes, it’s really pretty. You’re the best, Rossa.
 Rizal	: So, how about you, Ryan?
 Ryan	: My father and I went to Raja Ampat, Papua. You know that?
@@ -52,11 +52,11 @@ Rossa	: So, what did you do in Raja Ampat, Ryan?
 Ryan	: I diving on Friwen island, there has a beach with a beautiful underwater view.
 Viela	: It was funny. Did you took a picture?
 Ryan	: Wait, here it is.
-Rizal	: Oh My God! the beach is so beautiful that many visitors come
+Rizal	: Oh My God! the beach is so beautiful that many visitors come.
 Ryan	: Of course, I hope we will be there guys.
 Viela	: By the way guys, we only have 2 weeks off.  I thought how about we go on vacation 		together?  I think it will be a beautiful moment before our graduation.
-Rossa	: Nice idea!  we can have fun together.
-Rizal	: I don't seem to agree.  it's true, we can have fun together, but we have to study for 	the final exam later.
+Rossa	: Nice idea!  We can have fun together.
+Rizal	: I don't seem to agree.  It's true, we can have fun together, but we have to study for 	the final exam later.
 Ryan	: Of course we have to study for the final exam, but I think this will be our best 		moment.
 Rossa	: If so, where do you think we will go on vacation, guys?  I’m not sure we can get 	enough vacation in two weeks.
 Viela	: How about a foreign holiday? I know a good tourist spot in Malaysia.
@@ -67,45 +67,45 @@ Rossa	: Ah, sorry I forgot about it.
 Rizal	: Yeah, I think Raja Ampat is still too far away. Moreover, we are only there for two weeks.
 Viela	: I agree with Rizal. We won’t able to explore it in two weeks.
 Ryan	: How about Komodo Islands? We can explore there, can’t we?
-Rossa	: Of course, but I don’t think we should do anything strenuous on the holidays. I'm afraid we’ll get sick and can’t go to school
+Rossa	: Of course, but I don’t think we should do anything strenuous on the holidays. I'm afraid   we’ll get sick and can’t go to school.
 Ryan	: How about Toba Lake? It is known as the largest volcanic lake in the world.
 Viela	: No way, we don’t have enough time for an off-island vacation. We should just take a vacation in java so we won’t be in a hurry later.
 Rizal	: I think Tangkuban Perahu is the best choice. Tangkuban perahu has an easy hiking trail for beginner like us
 Rossa	: As far as I know about tangkuban perahu, I’m less interested in tangkuban perahu view.
 Viela	: How about Borobudur Temple in Central Java? I really want to take a trip there.
 Ryan	: Great idea, we can also learn about the history of the Hindu-Buddhist religion in java th	: Reading Javanese folklore, I was eager to take a holiday there.
-Rosa 	: isn’t is boring to take 2 weeks vacation only at the Borobudur temple?
+Rossa 	: Isn’t is boring to take 2 weeks vacation only at the Borobudur temple?
 Rizal 	: How about a week in Borobudur and a week elsewhere?
-Viela 	: Agree, how about Tumpak Sewu? It has really amazing panorama
+Viela 	: Agree, how about Tumpak Sewu? It has really amazing panorama.
 Ryan 	: Where is the location of the Tumpak Sewu waterfall?
-Rosa 	: Omg, don’t you know? That’s in Malang, east java
+Rossa 	: Oh My God, don’t you know? That’s in Malang, east java.
 Rizal 	: How could you not know it? Even though you are a native of East Java
-Ryan 	: Ooops, sorry guys I really don’t know about it. If you guys think it,s a good place, then we’ll go there after returning from Borobudur Temple
-Rosa 	: How about the transportation? We have to save money so we can spend money for shopping
-Viela	: Don’t worry I know good and cheap travel to get there
-Ryan 	: How about the inn? We have to find a good and strategically located inn
-Rizal 	: Of course, also a cheap inn
-Ryan	: Calm down, I will find and book it for us
-Rosa	: When are we going?
+Ryan 	: Ooops, sorry guys I really don’t know about it. If you guys think it,s a good place, then we’ll go there after returning from Borobudur Temple.
+Rossa 	: How about the transportation? We have to save money so we can spend money for shopping.
+Viela	: Don’t worry I know good and cheap travel to get there.
+Ryan 	: How about the inn? We have to find a good and strategically located inn.
+Rizal 	: Of course, also a cheap inn.
+Ryan	: Calm down, I will find and book it for us.
+Rosssa	: When are we going?
 Viela	: How about tomorrow afternoon?
 Rizal	: Yes, I agree
 Ryan	: Hmm, it seems better to leave early in the morning, so we will arrive quickly
-Rosa	: Can the travel leave tomorrow morning Vila?
-Viela	: No pronlem, I will book it for tomorrow morning
+Rossa	: Can the travel leave tomorrow morning Viela?
+Viela	: No problem, I will book it for tomorrow morning.
 Rizal 	: By the way, where will we meet tomorrow morning?
-Viela 	: Let's meet at my house, tomorrow at 7 a.m, don’t be late guys
-Ryan 	: Okay, let's just go home now guys so we can prepare the things that will be brought tomorrow
-Rosa 	: Okay, come on, i can’t wait for tomorrow
-Rizal 	: Let’s go home guys, bye bye
-The next day
+Viela 	: Let's meet at my house, tomorrow at 7 a.m, don’t be late guys.
+Ryan 	: Okay, let's just go home now guys so we can prepare the things that will be brought tomorrow.
+Rossa 	: Okay, come on, i can’t wait for tomorrow.
+Rizal 	: Let’s go home guys, bye bye.
+The next day…
 Viela 	: Hi, good morning.   Are you ready for the vacation?
-Rosa 	: I’m ready. By the way, why hasn't Rizal come yet, even though it's almost 7 a.m
-Rizal	: Wait I'll try to call him, I'm afraid he's asleep
-Ryan	: Eh sorry-sorry I woke up late
+Rossa 	: I’m ready. By the way, why hasn't Rizal come yet, even though it's almost 7 a.m.
+Rizal	: Wait I'll try to call him, I'm afraid he's asleep.
+Ryan	: Eh sorry-sorry I woke up late.
 Rizal 	: Huft, luckily we didn't miss the travel. But, all of your stuff have been taken?
-Ryan	: I have, but I forget to bring snacks
-Rosa 	: Don’t worry I have bring many snacks for us
+Ryan	: I have, but I forget to bring snacks.
+Rossa 	: Don’t worry I have bring many snacks for us.
 Viela 	: Eh btw, has the inn been booked Ryan?
 Ryan	: Yes, I have. the inn is very good, I’m sure you’ll like it
 Viela	: Guys, the travel has arrived
-Ryan, Rosa, and Rizal	: Let’s go!!
+Ryan, Rossa, and Rizal	: Let’s go!!
