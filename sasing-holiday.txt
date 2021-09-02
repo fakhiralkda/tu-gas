@@ -13,6 +13,7 @@ Viela 	: It’s okay, friends. Even though I stayed at home only, my holiday was
 Rizal	: Really? How could that be?
 Viela 	:Yeah, I have a cousin from Palembang who visited me on last holiday. We had family time during the holiday. You know, we had barbeque party and played some family games together. 
 Ryan 	: Wow! that’s great.
+Rizal	: I want to have barbeque with my famaliy too.
 Viela	: I know, but it would have been even greater if I could have spent the holiday outside the town. 
 Rossa 	: How about your holidays? What are you doing in the holidays season, Rizal?
 Rizal	: I’m having a great holidays, im playing soccer to fill up my free time.
@@ -23,9 +24,9 @@ Rizal	: I had 6 soccer matches during my last holiday.
 Viela	: How many you win and lose in the soccer match?
 Rizal	: My team got 5 wins and just one draw.
 Ryan	: Wow so impressive, did you get injured during a soccer match?
-Rizal	: Yes, injured during the soccer match I had to leave the field.
+Rizal	: Yes, being injured during the soccer match I had to leave the field.
 Rossa	: It’s must be hurt. Did your trainer take you to the hospital or clinic ?
-Rizal	: Yes, I was taken to the nearest clinic by my trainer. By the way how was Bali, Rossa? Was it fun? 
+Rizal	: Yes, I was taken to the nearest clinic by my trainer. By the way, how was Bali, Rossa? Was it fun?
 Rossa	: Of course, it was. Me and my sister went surfing in Nusa Lembongan.
 Viela	: Wait, you can surf. Really?
 Rossa	: Yes, I can.
@@ -36,15 +37,16 @@ Rossa	: Of course, that’s the reason why I chose Nusa Lembangon to holiday.
 Rizal	: Did you only go surfing when you visited Bali? 
 Rossa	: Of course not. I also visited some cool places there, such as Mount Batur, Uluwatu Temple, and Ubud Art Market. Having visited some cool place, I brought you some souvenirs from there. Here they are. 
 Ryan	: Wow, it’s so cool. Thanks, Rossa.
-Rizal   : its very nice, I’ve never had this before. Thank you, Rossa 
+Rizal   : It’s very nice, I’ve never had this before. Thank you, sist.
 Viela	: Yes, it’s really pretty. You’re the best, Rossa.
 Rizal	: So, how about you, Ryan?
 Ryan	: My father and I went to Raja Ampat, Papua. You know that?
 Viela	; Wow, it’s so awesome. How long to get there?
 Ryan	: 4 hours 20 minutes is the flight from Jakarta to Sorong.
+Rizal 	: I can’t imajine how bored you were.
 Rossa	: Then, how was your trip from Sorong to Raja Ampat?
 Ryan	: I took another plane from Domine Eduard Osok airport to Marinda airport. I took the ferry from rakyat port to Raja Ampat.
-Rizal	: It is so far, right?
+Rizal	: It is so far, right? 
 Ryan	: Of course. It is so far that I took a plane to go there.
 Viela	: Many people said that is one of an amazing place.
 Rizal	: Yeah, Raja Ampat is a beautiful place in West Papua.  
@@ -54,7 +56,7 @@ Viela	: It was funny. Did you took a picture?
 Ryan	: Wait, here it is.
 Rizal	: Oh My God! the beach is so beautiful that many visitors come.
 Ryan	: Of course, I hope we will be there guys.
-Viela	: By the way guys, we only have 2 weeks off.  I thought how about we go on vacation 		together?  I think it will be a beautiful moment before our graduation.
+Viela	: By the way guys, we only have 2 weeks off. How about we go on vacation 		together?  I think it will be a beautiful moment before our graduation.
 Rossa	: Nice idea!  We can have fun together.
 Rizal	: I don't seem to agree.  It's true, we can have fun together, but we have to study for 	the final exam later.
 Ryan	: Of course we have to study for the final exam, but I think this will be our best 		moment.
@@ -70,7 +72,7 @@ Ryan	: How about Komodo Islands? We can explore there, can’t we?
 Rossa	: Of course, but I don’t think we should do anything strenuous on the holidays. I'm afraid   we’ll get sick and can’t go to school.
 Ryan	: How about Toba Lake? It is known as the largest volcanic lake in the world.
 Viela	: No way, we don’t have enough time for an off-island vacation. We should just take a vacation in java so we won’t be in a hurry later.
-Rizal	: I think Tangkuban Perahu is the best choice. Tangkuban perahu has an easy hiking trail for beginner like us
+Rizal	: I think Tangkuban Perahu is the best choice. Tangkuban perahu has an easy hiking trail for beginner like us.
 Rossa	: As far as I know about tangkuban perahu, I’m less interested in tangkuban perahu view.
 Viela	: How about Borobudur Temple in Central Java? I really want to take a trip there.
 Ryan	: Great idea, we can also learn about the history of the Hindu-Buddhist religion in java th	: Reading Javanese folklore, I was eager to take a holiday there.
@@ -105,7 +107,7 @@ Ryan	: Eh sorry-sorry I woke up late.
 Rizal 	: Huft, luckily we didn't miss the travel. But, all of your stuff have been taken?
 Ryan	: I have, but I forget to bring snacks.
 Rossa 	: Don’t worry I have bring many snacks for us.
-Viela 	: Eh btw, has the inn been booked Ryan?
+Viela 	: Eh by the way, has the inn been booked Ryan?
 Ryan	: Yes, I have. the inn is very good, I’m sure you’ll like it
-Viela	: Guys, the travel has arrived
+Viela	: Guys, the travel has arrived.
 Ryan, Rossa, and Rizal	: Let’s go!!
