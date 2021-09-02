@@ -1,112 +1,111 @@
-A	: Hi, how are you guys? Long time no see.
-B	: Hello, i'm fine as always.
-C	: I’m very well.
-D	: Me too. What about you?
-A	: Yeah as you can see, of course I'm very fine.
-C	: Why did you suddenly ask us to meet up?
-B	:Yes, it's very sudden, luckily I'm not busy.
-A	:I'm sorry. Cause I miss you all so much that I invite you to meet up. Thank you for coming.
-D	: I miss you all too. We haven't seen each other for 1 month because of the holidays.
-A 	: Btw, How was your holiday guys? I bet it was fun. Mine was so-so since I didn’t go anywhere during the holiday. 
-C	:That was too bad, A. If I had known you going nowhere during the holiday, I would have asked you to come along with me to Bali.
-A 	: It’s okay, friends. Even though I stayed at home only, my holiday was not that bad.
-B	: Really? 
-A 	:Yeah, I have a cousin from Palembang who visited me on last holiday. We had family time during the holiday. You know, we had barbeque party and played some family games together. 
-D 	: woooww that’s great.
-A	: I know, but it would have been even greater if I could have spent the holiday outside the town. 
-C 	: How about your holidays? What are you doing in the holidays season, B?
-B	: I’m having a great holidays, im playing soccer to fill up my free time.
-C	: What is the name of your soccer team?
-B	: The name is elang soccer team.
-D	: Did you enter any soccer match?
-B	: I had 6 soccer matches during my last holiday.
-A	: How many you win and lose in the soccer match?
-B	: My team got 5 wins and just one draw.
-D	: Wow so impressive, did you get injured during a soccer match?
-B	: Yes, injured during the soccer match I had to leave the field.
-C	: It’s must be hurt. Did your trainer take you to the hospital or clinic ?
-B	: Yes, I was taken to the nearest clinic by my trainer. By the way how was Bali, C? Was it fun? 
-C	: Of course, it was. Me and my sister went surfing in Nusa Lembongan
-A	: Wait, you can surf
-C	: Yes, I can
-A	: I didn’t know you can do that. 
-C	: Well, now you do. 
-D	: Is the waves in Nusa Lembongan very strong, C?
-C	: Of course, that’s the reason why I chose Nusa Lembangon to holiday.
-B	: Did you only go surfing when you visited Bali? 
-C	: Of course not. I also visited some cool places there, such as Mount Batur, Uluwatu 	Temple, and Ubud Art Market. Speaking of Ubud Art Market. Having visited some 	cool place, I brought you some souvenirs from there. Here they are. 
-D	: Wow, it’s so cool. Thanks, C
-B	: Thanks, C
-A	: Yes, it’s really pretty. You’re the best, C.
-B	: So, how about you, D?
-D	: My father and I went to Raja Ampat, Papua. You know that?
-A	; Wow, it’s so awesome. How long to get there?
-D	: 4 hours 20 minutes is the flight from Jakarta to Sorong.
-C	: Then, how was your trip from Sorong to Raja Ampat?
-D	: I took another plane from Domine Eduard Osok airport to Marinda airport. I took the ferry from rakyat port to Raja Ampat.
-B	: It is so far, right?
-D	: Of course. It is so far that I took a plane to go there.
-A	: Many people said that is one of an amazing place.
-B	: Yeah, Raja Ampat is a beautiful place in West Papua.  
-C	: So, what did you do in Raja Ampat, D?
-D	: I diving on Friwen island, there has a beach with a beautiful underwater view.
-A	: It was funny. Did you took a picture?
-D	: Wait, here it is.
-B	: OMG.. it is a beautiful sea.
-D	: Of course, I hope we will be there guys.
-A	: By the way guys, we only have 2 weeks off.  I thought how about we go on vacation 		together?  I think it will be a beautiful moment before our graduation
-C	: nice idea!  we can have fun together
-B	: I don't seem to agree.  it's true, we can have fun together, but we have to study for 	the final exam later
-D	: Ofcourse we have to study for the final exam, but I think this will be our best 		moment.
-C	: If so, where do you think we will go on vacation, guys?  I’m not sure we can get 	enough vacation in two weeks
-A	: how about a foreign holiday? I know a good tourist spot in Malaysia
-B	: I don’t think so. It takes a lont time to go abroad. Especially when we only have to weeks
-C	: That’s right, how about Raja Ampat?
-D	: Of course not. I have vacationed at Raja Ampat, how can we go vacation there again
-C	: Ah, sorry I forgot about it
-B	: Yeah, I think Raja Ampat is still too far away. Moreover, we are only there for 2 weeks
-A	: I agree with B. we won’t able to explore it in two weeks
-D	: How about Komodo Islands? We can explore there, can’t we?
-C	: Of course, but I don’t think we should do anything strenuous on the holidays. I'm afraid we’ll get sick and can’t go to school
-D	: How about Toba Lake? It is known as the largest volcanic lake in the world
-A	: No way, we don’t have enough time for an off-island vacation. We should just take a vacation in java so we won’t be in a hurry later
-B	: I think Tangkuban Perahu is the best choice. Tangkuban perahu has an easy hiking trail for beginner like us
-C	: as far as I know about tangkuban perahu, I’m less interested in tangkuban perahu view
-A	: How about Borobudur Temple in Central Java? I really want to take a trip there
-D	: Great idea, we can also learn about the history of the Hindu-Buddhist religion in java there
-B	: Reading Javanese folklore, I was eager to take a holiday there.
-C	: isn’t is boring to take 2 weeks vacation only at the Borobudur temple?
-B	: How about a week in Borobudur and a week elsewhere?
-A	: Agree, how about Tumpak Sewu? It has really amazing panorama
-D	: Where is the location of the Tumpak Sewu waterfall?
-C	: Omg, don’t you know? That’s in Malang, east java
-B	: How could you not know it? Even though you are a native of East Java
-D	: Ooops, sorry guys I really don’t know about it. If you guys think it,s a good place, then we’ll go there after returning from Borobudur Temple
-C	: How about the transportation? We have to save money so we can spend money for shopping
-A	: Don’t worry I know good and cheap travel to get there
-D	: How about the inn? We have to find a good and strategically located inn
-B	: Of course, also a cheap inn
-D	: Calm down, I will find and book it for us
-C	: When are we going?
-A	: How about tomorrow afternoon?
-B	: Yes, I agree
-D	: Hmm, it seems better to leave early in the morning, so we will arrive quickly
-C	: Can the travel leave tomorrow morning A?
-A	: No pronlem, I will book it for tomorrow morning
-B	: By the way, where will we meet tomorrow morning?
-A	: Let's meet at my house, tomorrow at 7 a.m, don’t be late guys
-D	: Okay, let's just go home now guys so we can prepare the things that will be brought tomorrow
-C	: Okay, come on, i can’t wait for tomorrow
-B	: Let’s go home guys, bye bye
+Viela	: Hi, how are you guys? Long time no see.
+Rizal	: Hello, i'm fine as always.
+Rossa	: I’m very well.
+Ryan	: Me too. What about you?
+Viela	: Yeah as you can see, of course I'm very fine.
+Rossa	: Why did you suddenly ask us to meet up?
+Rizal	:Yes, it's very sudden, luckily I'm not busy.
+Viela	:I'm sorry. Cause I miss you all so much that I invite you to meet up. Thank you for coming.
+Ryan	: I miss you all too. We haven't seen each other for 1 month because of the holidays.
+Viela 	: By the way, How was your holiday guys? I bet it was fun. Mine was so-so since I didn’t go anywhere during the holiday. 
+Rossa	:That was too bad, Viela. If I had known you going nowhere during the holiday, I would have asked you to come along with me to Bali.
+Viela 	: It’s okay, friends. Even though I stayed at home only, my holiday was not that bad.
+Rizal	: Really? 
+Viela 	:Yeah, I have a cousin from Palembang who visited me on last holiday. We had family time during the holiday. You know, we had barbeque party and played some family games together. 
+Ryan 	: Wow! that’s great.
+Viela	: I know, but it would have been even greater if I could have spent the holiday outside the town. 
+Rossa 	: How about your holidays? What are you doing in the holidays season, Rizal?
+Rizal	: I’m having a great holidays, im playing soccer to fill up my free time.
+Rossa	: What is the name of your soccer team?
+Rizal	: The name is elang soccer team.
+Ryan	: Did you enter any soccer match?
+Rizal	: I had 6 soccer matches during my last holiday.
+Viela	: How many you win and lose in the soccer match?
+Rizal	: My team got 5 wins and just one draw.
+Ryan	: Wow so impressive, did you get injured during a soccer match?
+Rizal	: Yes, injured during the soccer match I had to leave the field.
+Rossa	: It’s must be hurt. Did your trainer take you to the hospital or clinic ?
+Rizal	: Yes, I was taken to the nearest clinic by my trainer. By the way how was Bali, Rossa? Was it fun? 
+Rossa	: Of course, it was. Me and my sister went surfing in Nusa Lembongan.
+Viela	: Wait, you can surf.
+Rossa	: Yes, I can.
+Viela	: I didn’t know you can do that. 
+Rossa	: Well, now you do. 
+Ryan	: Is the waves in Nusa Lembongan very strong, Rossa?
+Rossa	: Of course, that’s the reason why I chose Nusa Lembangon to holiday.
+Rizal	: Did you only go surfing when you visited Bali? 
+Rossa	: Of course not. I also visited some cool places there, such as Mount Batur, UluwaTemple, and Ubud Art Market. Having visited some cool place, I brought you some souvenirs from there. Here they are. 
+Ryan	: Wow, it’s so cool. Thanks, Rossa.
+Rizal	: Thanks, Rossa.
+Viela	: Yes, it’s really pretty. You’re the best, Rossa.
+Rizal	: So, how about you, Ryan?
+Ryan	: My father and I went to Raja Ampat, Papua. You know that?
+Viela	; Wow, it’s so awesome. How long to get there?
+Ryan	: 4 hours 20 minutes is the flight from Jakarta to Sorong.
+Rossa	: Then, how was your trip from Sorong to Raja Ampat?
+Ryan	: I took another plane from Domine Eduard Osok airport to Marinda airport. I took the ferry from rakyat port to Raja Ampat.
+Rizal	: It is so far, right?
+Ryan	: Of course. It is so far that I took a plane to go there.
+Viela	: Many people said that is one of an amazing place.
+Rizal	: Yeah, Raja Ampat is a beautiful place in West Papua.  
+Rossa	: So, what did you do in Raja Ampat, Ryan?
+Ryan	: I diving on Friwen island, there has a beach with a beautiful underwater view.
+Viela	: It was funny. Did you took a picture?
+Ryan	: Wait, here it is.
+Rizal	: Oh My God! it is a beautiful sea.
+Ryan	: Of course, I hope we will be there guys.
+Viela	: By the way guys, we only have 2 weeks off.  I thought how about we go on vacation 		together?  I think it will be a beautiful moment before our graduation.
+Rossa	: Nice idea!  we can have fun together.
+Rizal	: I don't seem to agree.  it's true, we can have fun together, but we have to study for 	the final exam later.
+Ryan	: Of course we have to study for the final exam, but I think this will be our best 		moment.
+Rossa	: If so, where do you think we will go on vacation, guys?  I’m not sure we can get 	enough vacation in two weeks.
+Viela	: How about a foreign holiday? I know a good tourist spot in Malaysia.
+Rizal	: I don’t think so. It takes a lont time to go abroad. Especially when we only have two weeks.
+Rossa	: That’s right, how about Raja Ampat?
+Ryan	: Of course not. I have vacationed at Raja Ampat, how can we go vacation there again.
+Rossa	: Ah, sorry I forgot about it.
+Rizal	: Yeah, I think Raja Ampat is still too far away. Moreover, we are only there for two weeks.
+Viela	: I agree with Rizal. We won’t able to explore it in two weeks.
+Ryan	: How about Komodo Islands? We can explore there, can’t we?
+Rossa	: Of course, but I don’t think we should do anything strenuous on the holidays. I'm afraid we’ll get sick and can’t go to school
+Rya 	: How about Toba Lake? It is known as the largest volcanic lake in the world.
+Viela	: No way, we don’t have enough time for an off-island vacation. We should just take a vacation in java so we won’t be in a hurry later.
+Rizal	: I think Tangkuban Perahu is the best choice. Tangkuban perahu has an easy hiking trail for beginner like us
+Rossa	: As far as I know about tangkuban perahu, I’m less interested in tangkuban perahu view.
+Viela	: How about Borobudur Temple in Central Java? I really want to take a trip there.
+Ryan	: Great idea, we can also learn about the history of the Hindu-Buddhist religion in java th	: Reading Javanese folklore, I was eager to take a holiday there.
+Rosa 	: isn’t is boring to take 2 weeks vacation only at the Borobudur temple?
+Rizal 	: How about a week in Borobudur and a week elsewhere?
+Viela 	: Agree, how about Tumpak Sewu? It has really amazing panorama
+Ryan 	: Where is the location of the Tumpak Sewu waterfall?
+Rosa 	: Omg, don’t you know? That’s in Malang, east java
+Rizal 	: How could you not know it? Even though you are a native of East Java
+Ryan 	: Ooops, sorry guys I really don’t know about it. If you guys think it,s a good place, then we’ll go there after returning from Borobudur Temple
+Rosa 	: How about the transportation? We have to save money so we can spend money for shopping
+Viela	: Don’t worry I know good and cheap travel to get there
+Ryan 	: How about the inn? We have to find a good and strategically located inn
+Rizal 	: Of course, also a cheap inn
+Ryan	: Calm down, I will find and book it for us
+Rosa	: When are we going?
+Viela	: How about tomorrow afternoon?
+Rizal	: Yes, I agree
+Ryan	: Hmm, it seems better to leave early in the morning, so we will arrive quickly
+Rosa	: Can the travel leave tomorrow morning Vila?
+Viela	: No pronlem, I will book it for tomorrow morning
+Rizal 	: By the way, where will we meet tomorrow morning?
+Viela 	: Let's meet at my house, tomorrow at 7 a.m, don’t be late guys
+Ryan 	: Okay, let's just go home now guys so we can prepare the things that will be brought tomorrow
+Rosa 	: Okay, come on, i can’t wait for tomorrow
+Rizal 	: Let’s go home guys, bye bye
 The next day
-A	: Hi, good morning.   Are you ready for the vacation?
-C	: I’m ready. By the way, why hasn't B come yet, even though it's almost 7 a.m
-D	: Wait I'll try to call him, I'm afraid he's asleep
-B	: Eh sorry-sorry I woke up late
-D	: Huft, luckily we didn't miss the travel. But, all of your stuff have been taken?
-B	: I have, but I forget to bring snacks
-C	: Don’t worry I have bring many snacks for us
-A	: Eh btw, has the inn been booked D?
-D	: Yes, I have. the inn is very good, I’m sure you’ll like it
-A	: Guys, the travel has arrived
-B,C,D	: Let’s go!!
+Viela 	: Hi, good morning.   Are you ready for the vacation?
+Rosa 	: I’m ready. By the way, why hasn't Rizal come yet, even though it's almost 7 a.m
+Ryan 	: Wait I'll try to call him, I'm afraid he's asleep
+Rizal 	: Eh sorry-sorry I woke up late
+Ryan 	: Huft, luckily we didn't miss the travel. But, all of your stuff have been taken?
+Rizal	: I have, but I forget to bring snacks
+Rosa 	: Don’t worry I have bring many snacks for us
+Viela 	: Eh btw, has the inn been booked Ryan?
+Ryan	: Yes, I have. the inn is very good, I’m sure you’ll like it
+Viela	: Guys, the travel has arrived
+Ryan, Rosa, and Rizal	: Let’s go!!
